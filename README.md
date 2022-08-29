@@ -6,7 +6,7 @@ I am a front-end developer and passionate about creating user-friendly, aestheti
 
 - 🌱 I’m currently learning Javascript Frameworks(ReactJS..)
 
-- ⚡ Fun fact: I love to crotchet beautiful oufits when I'm not coding to explore my creative side and also binge watching awesome series on Netflix while at it.
+- ⚡ Fun fact: I love to crotchet beautiful outfits when I'm not coding to explore my creative side and also binge watching awesome series on Netflix while at it.
 
 ## Connect with Me:
 <ul>
