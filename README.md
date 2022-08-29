@@ -1,4 +1,7 @@
 ### Hi there 👋
+<img alt='intro-image' src='https://s3.amazonaws.com/shecodesio-production/uploads/files/000/044/933/original/Dark_Think_Positive_Be_Positive_Quote_Wallpaper_Dekstop_%282%29.png?1661765992' />
+
+![Oyinade's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyinade3&show_icons=true&theme=jolly)
 
 <!--
 **Oyinade3/Oyinade3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
