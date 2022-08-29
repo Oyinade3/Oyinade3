@@ -2,7 +2,7 @@
 
 
 ## About me
-I am a front-end developer and passionate about creating user-friendly, aesthetically pleasing and accessible web applications working wih the latest technologies, including HTML, CSS, SASS, Git and Javascript. 
+I am a front-end developer and I'm passionate about creating user-friendly, aesthetically pleasing and accessible web applications working wih the latest technologies, including HTML, CSS, SASS, Git and Javascript. 
 
 - 🌱 I’m currently learning Javascript Frameworks(ReactJS..)
 
