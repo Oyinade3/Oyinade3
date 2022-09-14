@@ -16,7 +16,7 @@ I am a front-end developer and I'm passionate about creating user-friendly, aest
 
 ## GitHub Stats
 
-![Oyinade's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyinade3&show_icons=true&theme=jolly)
+![Oyinade's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyinade3&show_icons=true&theme=jolly&PAT_1)
 
 <!--
 **Oyinade3/Oyinade3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
